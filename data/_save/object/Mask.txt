@@ -1,0 +1,316 @@
+{
+    "obj": {
+        "polymorphic_id": 1073741824,
+        "ptr_wrapper": {
+            "id": 2147483649,
+            "data": {
+                "cereal_class_version": 1,
+                "name_": "Mask",
+                "name_default_": "Mask",
+                "status_.get()": 2573,
+                "update_timings_": [
+                    {
+                        "key": "__system_Update",
+                        "value": {
+                            "cereal_class_version": 0,
+                            "value0": "__system_Update",
+                            "value1": 1,
+                            "value2": 10000,
+                            "value3": true
+                        }
+                    },
+                    {
+                        "key": "__system_LateUpdate",
+                        "value": {
+                            "value0": "__system_LateUpdate",
+                            "value1": 2,
+                            "value2": 10000,
+                            "value3": true
+                        }
+                    }
+                ],
+                "proc_timings_": [
+                    {
+                        "key": "__system_Draw",
+                        "value": {
+                            "cereal_class_version": 0,
+                            "value0": "__system_Draw",
+                            "value1": 6,
+                            "value2": 10000,
+                            "value3": true
+                        }
+                    },
+                    {
+                        "key": "__system_LateDraw",
+                        "value": {
+                            "value0": "__system_LateDraw",
+                            "value1": 7,
+                            "value2": 10000,
+                            "value3": true
+                        }
+                    },
+                    {
+                        "key": "__system_PrePhysics",
+                        "value": {
+                            "value0": "__system_PrePhysics",
+                            "value1": 3,
+                            "value2": 10000,
+                            "value3": true
+                        }
+                    },
+                    {
+                        "key": "__system_PreUpdate",
+                        "value": {
+                            "value0": "__system_PreUpdate",
+                            "value1": 0,
+                            "value2": 10000,
+                            "value3": true
+                        }
+                    },
+                    {
+                        "key": "__system_PostUpdate",
+                        "value": {
+                            "value0": "__system_PostUpdate",
+                            "value1": 4,
+                            "value2": 10000,
+                            "value3": true
+                        }
+                    },
+                    {
+                        "key": "__system_PreDraw",
+                        "value": {
+                            "value0": "__system_PreDraw",
+                            "value1": 5,
+                            "value2": 10000,
+                            "value3": true
+                        }
+                    },
+                    {
+                        "key": "__system_PostDraw",
+                        "value": {
+                            "value0": "__system_PostDraw",
+                            "value1": 8,
+                            "value2": 10000,
+                            "value3": true
+                        }
+                    }
+                ],
+                "components_": [
+                    {
+                        "polymorphic_id": 2147483649,
+                        "polymorphic_name": "ComponentTransform",
+                        "ptr_wrapper": {
+                            "id": 2147483650,
+                            "data": {
+                                "cereal_class_version": 0,
+                                "owner": {
+                                    "polymorphic_id": 1073741824,
+                                    "ptr_wrapper": {
+                                        "id": 1
+                                    }
+                                },
+                                "transform": {
+                                    "value0": {
+                                        "x": 1.0,
+                                        "y": 0.0,
+                                        "z": 0.0,
+                                        "w": 0.0
+                                    },
+                                    "value1": {
+                                        "x": 0.0,
+                                        "y": 1.0,
+                                        "z": 0.0,
+                                        "w": 0.0
+                                    },
+                                    "value2": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 1.0,
+                                        "w": 0.0
+                                    },
+                                    "value3": {
+                                        "x": 0.0,
+                                        "y": 10.0,
+                                        "z": 10.0,
+                                        "w": 1.0
+                                    }
+                                },
+                                "old_transform": {
+                                    "value0": {
+                                        "x": 1.0,
+                                        "y": 0.0,
+                                        "z": 0.0,
+                                        "w": 0.0
+                                    },
+                                    "value1": {
+                                        "x": 0.0,
+                                        "y": 1.0,
+                                        "z": 0.0,
+                                        "w": 0.0
+                                    },
+                                    "value2": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 1.0,
+                                        "w": 0.0
+                                    },
+                                    "value3": {
+                                        "x": 0.0,
+                                        "y": 10.0,
+                                        "z": 10.0,
+                                        "w": 1.0
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 2147483650,
+                        "polymorphic_name": "ComponentModel",
+                        "ptr_wrapper": {
+                            "id": 2147483651,
+                            "data": {
+                                "cereal_class_version": 0,
+                                "owner": {
+                                    "polymorphic_id": 1073741824,
+                                    "ptr_wrapper": {
+                                        "id": 1
+                                    }
+                                },
+                                "model_transform": {
+                                    "value0": {
+                                        "x": 1.0,
+                                        "y": 0.0,
+                                        "z": 0.0,
+                                        "w": 0.0
+                                    },
+                                    "value1": {
+                                        "x": 0.0,
+                                        "y": 1.0,
+                                        "z": 0.0,
+                                        "w": 0.0
+                                    },
+                                    "value2": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 1.0,
+                                        "w": 0.0
+                                    },
+                                    "value3": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0,
+                                        "w": 1.0
+                                    }
+                                },
+                                "path": "data/Sample/Key/source/death_mask.mv1",
+                                "desc": [],
+                                "model_status": 11,
+                                "Component": {
+                                    "cereal_class_version": 0,
+                                    "owner_": {
+                                        "polymorphic_id": 1073741824,
+                                        "ptr_wrapper": {
+                                            "id": 1
+                                        }
+                                    },
+                                    "update_timings_": [
+                                        {
+                                            "key": "__system_Update",
+                                            "value": {
+                                                "value0": "__system_Update",
+                                                "value1": 1,
+                                                "value2": 10000,
+                                                "value3": true
+                                            }
+                                        },
+                                        {
+                                            "key": "__system_LateUpdate",
+                                            "value": {
+                                                "value0": "__system_LateUpdate",
+                                                "value1": 2,
+                                                "value2": 10000,
+                                                "value3": true
+                                            }
+                                        }
+                                    ],
+                                    "proc_timings_": [
+                                        {
+                                            "key": "__system_LateDraw",
+                                            "value": {
+                                                "value0": "__system_LateDraw",
+                                                "value1": 7,
+                                                "value2": 10000,
+                                                "value3": true
+                                            }
+                                        },
+                                        {
+                                            "key": "__system_PrePhysics",
+                                            "value": {
+                                                "value0": "__system_PrePhysics",
+                                                "value1": 3,
+                                                "value2": 10000,
+                                                "value3": true
+                                            }
+                                        },
+                                        {
+                                            "key": "__system_PreUpdate",
+                                            "value": {
+                                                "value0": "__system_PreUpdate",
+                                                "value1": 0,
+                                                "value2": 10000,
+                                                "value3": true
+                                            }
+                                        },
+                                        {
+                                            "key": "__system_PostUpdate",
+                                            "value": {
+                                                "value0": "__system_PostUpdate",
+                                                "value1": 4,
+                                                "value2": 10000,
+                                                "value3": true
+                                            }
+                                        },
+                                        {
+                                            "key": "__system_PreDraw",
+                                            "value": {
+                                                "value0": "__system_PreDraw",
+                                                "value1": 5,
+                                                "value2": 10000,
+                                                "value3": true
+                                            }
+                                        },
+                                        {
+                                            "key": "__system_Draw",
+                                            "value": {
+                                                "value0": "__system_Draw",
+                                                "value1": 6,
+                                                "value2": 10000,
+                                                "value3": true
+                                            }
+                                        },
+                                        {
+                                            "key": "__system_PostDraw",
+                                            "value": {
+                                                "value0": "__system_PostDraw",
+                                                "value1": 8,
+                                                "value2": 10000,
+                                                "value3": true
+                                            }
+                                        }
+                                    ],
+                                    "status_.get()": 1036
+                                }
+                            }
+                        }
+                    }
+                ],
+                "gravity_": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            }
+        }
+    }
+}
